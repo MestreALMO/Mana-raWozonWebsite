@@ -33,6 +33,7 @@ export const GlobalStyle = createGlobalStyle`
 	body {
 		background: var(--backround);
 		-webkit-font-smoothing: antialiased;
+    min-width: 450px;
 	}
 
 	button {

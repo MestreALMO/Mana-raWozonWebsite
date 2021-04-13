@@ -32,7 +32,7 @@ export const ContentAbout = styled.div`
   }
 
   div {
-    padding: 10px 50px;
+    padding: 10px 20px;
     font-size: 25px;
 
     p {
