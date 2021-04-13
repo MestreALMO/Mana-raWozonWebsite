@@ -5,10 +5,10 @@
     <img src="_README.md/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">React with TS template</h3>
+  <h3 align="center">Manaíra Wozon Portfolio Webpage</h3>
 
   <p align="center">
-    An awesome React template to jumpstart your projects!
+    A page to display Manaíra Wozon work.
     <br />
     <br />
   </p>
@@ -35,7 +35,7 @@
   <img src="_README.md/App.gif">
 </p>
 
-2021 Present for my fiance, on the current date
+2021 birthday's gift for my fiance.
 
 ## Prerequisites
 It is need to install some tools, Click on the link to see the ones I used to run with Windows O.S.
