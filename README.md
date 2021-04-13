@@ -20,19 +20,8 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#running-code">Running Code</a>
-      <ul>
-        <li><a href="#first-time">First Time</a></li>
-        <li><a href="#running">Running</a></li>
-      </ul>
-    </li>
+    <li><a href="#prerequisites">Prerequisites</a></li>
+    <li><a href="#running">Running</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -44,68 +33,15 @@
 ## About The Project
 
 <p align="center">
-  <img src="https://github.com/MestreALMO/ReactJS-with-TypeScript-Template/blob/master/_README.md/app.gif?raw=true" />
+  <img src="_README.md/App.gif">
 </p>
 
-A project created in ReactJS with TS that already includes, the following items to accelerate the production: 
-* Yarn
-* EditorConfig;
-* ESLint;
-* Prettier;
+2021 Present for my fiance, on the current date
 
-The following item so we can have routes and have access to create multiple pages
-* React Router DOM;
-
-
-### Built With
-
-This section should list any major tools that you built your project using.
-* [VSCode](https://code.visualstudio.com/)
-* [React](https://reactjs.org/)
-* [TypeScript](https://www.typescriptlang.org/)
-* [Yarn](https://yarnpkg.com/)
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-Use this as a template.
-Make a copy of this files locally and start your new project
-
-
-
-### Prerequisites
-
-The things you need to install the software and how to install them
-
-* [Nodejs](https://nodejs.org/en/) - Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
-* Chocolatey - Chocolatey is software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages.
-  * To install execute the codes with a terminal (ex: In Windows use PowerShell):
-    ```
-    Get-ExecutionPolicy
-    ```
-    ```
-    Set-ExecutionPolicy AllSigned
-    ```
-    ```
-    Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
-    ```
-    ```
-    choco
-    ```
-* Node.js, Yarn, Python2 e a JDK 8
-  ```
-  choco install -y nodejs-lts yarn python2 jdk8
-  ```
-
-</br>
-
-## Running Code
-
-Now the PC is ready, we can run the code.
-
-</br>
+## Prerequisites
+It is need to install some tools, Click on the link to see the ones I used to run with Windows O.S.
+<br/>
+[Link](https://github.com/MestreALMO/React-Requires-To-Run-Windows-)
 
 ### First time
 
@@ -114,8 +50,6 @@ When running for the first time we need to run the following code in a terminal 
 ```
 yarn
 ```
-
-</br>
 
 ### Running
 
@@ -131,10 +65,10 @@ With that the app will be running!!!
 
 ## Usage
 
-Here is a area to explain how the project works. In this case is a project to accelerate other projects.
+A page so Manaíra Wozon can display her work.
 
 <p align="center">
-  <img src="https://github.com/MestreALMO/ReactJS-with-TypeScript-Template/blob/master/_README.md/app.gif?raw=true" />
+  <img src="_README.md/App.gif">
 </p>
 
 </br>
