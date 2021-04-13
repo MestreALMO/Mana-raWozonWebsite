@@ -8,7 +8,7 @@
   <h3 align="center">Manaíra Wozon Portfolio Webpage</h3>
 
   <p align="center">
-    A page to display Manaíra Wozon work.
+    A page to display Manaíra Wozon's work.
     <br />
     <br />
   </p>
