@@ -42,6 +42,9 @@ It is need to install some tools, Click on the link to see the ones I used to ru
 <br/>
 [Link](https://github.com/MestreALMO/React-Requires-To-Run-Windows-)
 
+
+## Running
+
 ### First time
 
 When running for the first time we need to run the following code in a terminal inside the project folder, so the project download the library that it uses
@@ -50,7 +53,7 @@ When running for the first time we need to run the following code in a terminal 
 yarn
 ```
 
-### Running
+### Second or more times
 
 In a terminal inside the project folder use the code:
 
