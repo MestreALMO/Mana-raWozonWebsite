@@ -22,7 +22,6 @@
   <ol>
     <li><a href="#prerequisites">Prerequisites</a></li>
     <li><a href="#running">Running</a></li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -61,17 +60,6 @@ yarn start
 
 With that the app will be running!!!
 
-
-
-## Usage
-
-A page so Manaíra Wozon can display her work.
-
-<p align="center">
-  <img src="_README.md/App.gif">
-</p>
-
-</br>
 
 ## Contact
 
