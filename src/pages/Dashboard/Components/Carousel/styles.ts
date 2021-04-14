@@ -13,13 +13,11 @@ export const Container = styled.div`
     font-size: 50px;
     padding-bottom: 16px;
   }
-
-  .carousel-root {
-    max-width: 1000px;
-    padding: 0 30px 0 30px;
-  }
 `;
 
-export const ImageCarousel = styled.div`
-  position: relative;
+export const CarouselBox = styled.div`
+  padding: 0 10px;
+  max-width: 1000px;
+  height: 100%;
+  width: 100%;
 `;

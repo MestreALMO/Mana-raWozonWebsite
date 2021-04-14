@@ -11,7 +11,10 @@ const Dashboard: React.FC = () => (
   <>
     <Container>
       <NameAndTitle>
-        <h1>Manaíra Wozon</h1>
+        <div>
+          <h1>Manaíra&nbsp;</h1>
+          <h1>Wozon</h1>
+        </div>
         <h2>Architect</h2>
       </NameAndTitle>
 

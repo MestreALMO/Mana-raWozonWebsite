@@ -10,14 +10,24 @@ export const Container = styled.div`
 export const NameAndTitle = styled.div`
   background: url(${BgNameAndTitleImg}) no-repeat fixed center;
   color: var(--textMain01);
-  padding: 60px 0 60px 0;
+  padding: 60px 10px;
   font-family: 'Cedarville Cursive', cursive;
   display: flex;
   flex-direction: column;
   align-items: center;
 
-  h1 {
-    font-size: 50px;
+  div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    @media screen and (max-width: 440px) {
+      flex-direction: column;
+    }
+
+    h1 {
+      font-size: 50px;
+    }
   }
 
   h2 {
@@ -40,6 +50,10 @@ export const Contact = styled.div`
   }
 
   a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
     background-color: var(--contactLink);
     text-decoration: none;
     color: var(--textMain01);

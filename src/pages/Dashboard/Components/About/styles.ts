@@ -38,6 +38,7 @@ export const ContentAbout = styled.div`
     p {
       font-family: sans-serif;
       text-indent: 3rem;
+      max-width: 800px;
     }
   }
 `;
