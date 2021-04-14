@@ -64,5 +64,9 @@ export const Contact = styled.div`
     &:hover {
       background-color: #c82333;
     }
+
+    p {
+      margin: 0;
+    }
   }
 `;
